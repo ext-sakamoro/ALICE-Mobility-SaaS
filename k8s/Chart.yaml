@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_MOBILITY
+name: alice-mobility
 description: ALICE Mobility
 type: application
 version: 0.1.0
